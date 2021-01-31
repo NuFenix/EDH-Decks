@@ -3,8 +3,8 @@
 1 Rhonas's Monument
 1 Emerald Medallion
 1 Dowsing Dagger
-1 Moss Diamond
 1 Sol Ring
+1 Trailblazer's Boots
 
 // 31 Creature
 1 Myr Superion
@@ -18,7 +18,6 @@
 1 Beast Whisperer
 1 Elder Gargaroth
 1 Vengevine
-1 Nessian Boar
 1 Ayumi, the Last Visitor
 1 End-Raze Forerunners
 1 Craterhoof Behemoth
@@ -30,7 +29,6 @@
 1 Indrik Stomphowler
 1 Caustic Caterpillar
 1 Sakura-Tribe Elder
-1 Fyndhorn Elves
 1 Thunderfoot Baloth
 1 Primordial Sage
 1 Garruk's Packleader
@@ -38,8 +36,10 @@
 1 Arboreal Grazer
 1 Elvish Pioneer
 1 Regal Behemoth
+1 Kamahl, Heart of Krosa
+1 Wall of Roots
 
-// 12 Enchantment
+// 13 Enchantment
 1 Colossal Majesty
 1 Garruk's Uprising
 1 Elemental Bond
@@ -52,6 +52,7 @@
 1 Utopia Vow
 1 Utopia Sprawl
 1 Growing Rites of Itlimoc
+1 Blanchwood Armor
 
 // 6 Instant
 1 Beast Within
@@ -61,9 +62,9 @@
 1 Spring Cleaning
 1 Heroic Intervention
 
-// 36 Land
+// 35 Land
 1 Bonders' Enclave
-29 Forest (a)
+28 Forest (a)
 1 Oran-Rief, the Vastwood
 1 Havenwood Battleground
 1 Mosswort Bridge
