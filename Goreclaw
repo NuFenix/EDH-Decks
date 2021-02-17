@@ -1,10 +1,11 @@
 // 99 Maindeck
-// 5 Artifact
+// 6 Artifact
 1 Rhonas's Monument
 1 Emerald Medallion
 1 Dowsing Dagger
 1 Sol Ring
 1 Trailblazer's Boots
+1 The Great Henge
 
 // 31 Creature
 1 Myr Superion
@@ -62,9 +63,9 @@
 1 Spring Cleaning
 1 Heroic Intervention
 
-// 35 Land
+// 34 Land
 1 Bonders' Enclave
-28 Forest (a)
+27 Forest (a)
 1 Oran-Rief, the Vastwood
 1 Havenwood Battleground
 1 Mosswort Bridge
@@ -82,8 +83,3 @@
 1 Three Visits
 1 Harvest Season
 1 Primal Might
-
-
-// 1 Sideboard
-// 1 Creature
-SB: 1 Goreclaw, Terror of Qal Sisma
